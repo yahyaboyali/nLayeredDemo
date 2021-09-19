@@ -3,7 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/nLayeredDemo/src/Main.java</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/nLayeredDemo/src/nLayeredDemo/core/LoggerService.java</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/nLayeredDemo/src/nLayeredDemo/bussiness/concretes/ProductManager.java</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/nLayeredDemo/src/nLayeredDemo/bussiness/abstracts/ProductService.java</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/nLayeredDemo/src/nLayeredDemo/Main.java</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/nLayeredDemo/src/nLayeredDemo/core/JLoggerManagerAdapter.java</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/nLayeredDemo/src/nLayeredDemo/jLogger/JLoggerManager.java</file>
         </group>
     </open-files>
 </project-private>
